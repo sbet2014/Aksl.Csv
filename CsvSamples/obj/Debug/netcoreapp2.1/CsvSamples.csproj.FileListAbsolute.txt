@@ -1,0 +1,14 @@
+D:\TrainingKits\Aksl\Aksl.Csv\CsvSamples\bin\Debug\netcoreapp2.1\CsvSamples.deps.json
+D:\TrainingKits\Aksl\Aksl.Csv\CsvSamples\bin\Debug\netcoreapp2.1\CsvSamples.runtimeconfig.json
+D:\TrainingKits\Aksl\Aksl.Csv\CsvSamples\bin\Debug\netcoreapp2.1\CsvSamples.runtimeconfig.dev.json
+D:\TrainingKits\Aksl\Aksl.Csv\CsvSamples\bin\Debug\netcoreapp2.1\CsvSamples.dll
+D:\TrainingKits\Aksl\Aksl.Csv\CsvSamples\bin\Debug\netcoreapp2.1\CsvSamples.pdb
+D:\TrainingKits\Aksl\Aksl.Csv\CsvSamples\bin\Debug\netcoreapp2.1\Aksl.Csv.dll
+D:\TrainingKits\Aksl\Aksl.Csv\CsvSamples\bin\Debug\netcoreapp2.1\Aksl.Csv.pdb
+D:\TrainingKits\Aksl\Aksl.Csv\CsvSamples\obj\Debug\netcoreapp2.1\CsvSamples.csprojAssemblyReference.cache
+D:\TrainingKits\Aksl\Aksl.Csv\CsvSamples\obj\Debug\netcoreapp2.1\CsvSamples.csproj.CoreCompileInputs.cache
+D:\TrainingKits\Aksl\Aksl.Csv\CsvSamples\obj\Debug\netcoreapp2.1\CsvSamples.AssemblyInfoInputs.cache
+D:\TrainingKits\Aksl\Aksl.Csv\CsvSamples\obj\Debug\netcoreapp2.1\CsvSamples.AssemblyInfo.cs
+D:\TrainingKits\Aksl\Aksl.Csv\CsvSamples\obj\Debug\netcoreapp2.1\CsvSamples.csproj.CopyComplete
+D:\TrainingKits\Aksl\Aksl.Csv\CsvSamples\obj\Debug\netcoreapp2.1\CsvSamples.dll
+D:\TrainingKits\Aksl\Aksl.Csv\CsvSamples\obj\Debug\netcoreapp2.1\CsvSamples.pdb

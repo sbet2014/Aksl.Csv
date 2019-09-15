@@ -1,0 +1,9 @@
+D:\TrainingKits\Aksl\Aksl.Csv\Aksl.Csv\bin\Debug\netstandard2.0\Aksl.Csv.deps.json
+D:\TrainingKits\Aksl\Aksl.Csv\Aksl.Csv\bin\Debug\netstandard2.0\Aksl.Csv.dll
+D:\TrainingKits\Aksl\Aksl.Csv\Aksl.Csv\bin\Debug\netstandard2.0\Aksl.Csv.pdb
+D:\TrainingKits\Aksl\Aksl.Csv\Aksl.Csv\obj\Debug\netstandard2.0\Aksl.Csv.csproj.CoreCompileInputs.cache
+D:\TrainingKits\Aksl\Aksl.Csv\Aksl.Csv\obj\Debug\netstandard2.0\Aksl.Csv.AssemblyInfoInputs.cache
+D:\TrainingKits\Aksl\Aksl.Csv\Aksl.Csv\obj\Debug\netstandard2.0\Aksl.Csv.AssemblyInfo.cs
+D:\TrainingKits\Aksl\Aksl.Csv\Aksl.Csv\obj\Debug\netstandard2.0\Aksl.Csv.dll
+D:\TrainingKits\Aksl\Aksl.Csv\Aksl.Csv\obj\Debug\netstandard2.0\Aksl.Csv.pdb
+D:\TrainingKits\Aksl\Aksl.Csv\Aksl.Csv\obj\Debug\netstandard2.0\Aksl.Csv.csprojAssemblyReference.cache
